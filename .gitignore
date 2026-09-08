@@ -1,0 +1,14 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+## Ambiente
+appsettings.Development.json.bak
+*.db
+
+## Sistema Operacional
+.DS_Store
+Thumbs.db
